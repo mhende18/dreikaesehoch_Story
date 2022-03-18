@@ -1,6 +1,7 @@
 /** Instructions:
 * Enter story sentence by sentence. Each team member to commit two sentences total. 
-* Each sentence must use at least one german word from dictionary.txt.
+* Each sentence must use at least one german word from dictionary.txt .
+* Each sentence must be appended to the end of the existing story.
 * A person cannot commit two sentences in a row - must have someone else's sentence in between.
 **/
 =====================================================================================================
