@@ -1,7 +1,7 @@
 Raesfeld 
 Flughafen - airport
 Berlin 
-Bratwurst 
+Bratwurst - type of German sausage made from pork or, less commonly, beef or veal 
 Hauptstrasse - main street or highway
 Brot - bread
 Klimaanlage 
@@ -9,16 +9,15 @@ Rammstein
 Porsche
 BMW 
 Biergarten 
-Ratskeller 
+Ratskeller - bar or restaurant located in the basement of a city hall
 Dirndel 
 Lederhose 
-Schloss 
 wettbewerbsfaehig 
 Mehlhase 
-Gebaeck
+Gebaeck - pastries or cookies
 Baeckerei 
 Hund 
 Doener 
 Apfelkuchen
-Schloss 
+Schloss - lock
 Eltz
