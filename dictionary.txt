@@ -15,9 +15,9 @@ Lederhose
 wettbewerbsfaehig - competitive
 Mehlhase 
 Gebaeck - pastries or cookies
-Baeckerei 
-Hund 
-Doener 
+Baeckerei - bakery
+Hund - dog
+Doener - a shredded meat mixture with sauce and chopped veggies, wrapped in a warm pita
 Apfelkuchen
 Schloss - lock
 Eltz
