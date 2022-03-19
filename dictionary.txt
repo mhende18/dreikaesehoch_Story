@@ -12,7 +12,7 @@ Biergarten
 Ratskeller - bar or restaurant located in the basement of a city hall
 Dirndel 
 Lederhose 
-wettbewerbsfaehig 
+wettbewerbsfaehig - competitive
 Mehlhase 
 Gebaeck - pastries or cookies
 Baeckerei 
