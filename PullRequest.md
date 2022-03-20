@@ -3,4 +3,5 @@
 ## Names and Links
 ### Giovanna Stern - [Gio to enter her link here]
 ### Matthew Henderson - [Enter your link here]
+### Keenan High - [Enter your link here]
 ### [Enter your name here] - [Enter your link here]
