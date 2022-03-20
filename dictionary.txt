@@ -13,11 +13,11 @@ Ratskeller - bar or restaurant located in the basement of a city hall
 Dirndel 
 Lederhose 
 wettbewerbsfaehig - competitive
-Mehlhase 
+Mehlhase - instructor of this course
 Gebaeck - pastries or cookies
 Baeckerei - bakery
 Hund - dog
 Doener - a shredded meat mixture with sauce and chopped veggies, wrapped in a warm pita
-Apfelkuchen
+Apfelkuchen - Apple Cake
 Schloss - lock
-Eltz
+Eltz - A castle in Germany
